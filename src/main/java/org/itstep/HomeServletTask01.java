@@ -109,15 +109,3 @@ public class HomeServletTask01 extends HttpServlet {
     }
 }
 
-
-//<style>
-//                        .flip {
-//                                transform: scaleX(-1);
-//                                }
-//                                ul {
-//                                cursor: pointer;
-//                                }
-//                                .mark {
-//                                background: yellow;
-//                                }
-//</style>
